@@ -6,3 +6,7 @@ body {
 color: #E812FF;
 font family: "PLASMATIK TWO";
 }
+p {
+ color: #87CEEB;
+ text decoration: underline;
+}
