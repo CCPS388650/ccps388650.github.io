@@ -9,6 +9,7 @@ color: #d40402;
 body {
 color: #5A5A5A;
 font family: "PLASMATIK TWO";
+ text-decoration: italic;
  background-image: url("sitebackground.png");
  background-size: cover;
 }
