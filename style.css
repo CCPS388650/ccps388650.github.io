@@ -5,6 +5,8 @@ header {
  }
 h1 {
 color: #d40402;
+ padding: 5;
+ margin: 0;
 }
 body {
 color: #5A5A5A;
