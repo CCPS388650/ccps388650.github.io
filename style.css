@@ -8,10 +8,14 @@ color: #d40402;
  padding: 5;
  margin: 0;
 }
+.nav a {
+color: #16A085;
+}
 body {
 color: #d40402 ;
 font family: "PLASMATIK TWO";
  decoration: italic;
+ font-size: 14px;
  background-image: url("sitebackground.png");
  background-size: cover;
 }
