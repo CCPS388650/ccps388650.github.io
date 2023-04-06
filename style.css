@@ -1,5 +1,5 @@
 header {
- color: #5A5A5A;
+ color: #d40402 ;
   background color: "green";
  text decoration: bold;
  }
@@ -9,17 +9,17 @@ color: #d40402;
  margin: 0;
 }
 body {
-color: #5A5A5A;
+color: #d40402 ;
 font family: "PLASMATIK TWO";
  decoration: italic;
  background-image: url("sitebackground.png");
  background-size: cover;
 }
 p {
- color: #5A5A5A;
+ color: #d40402 ;
  text decoration: underline;
 }
 footer {
-color: #5A5A5A;
+color: #d40402 ;
  text decoration: bold;
 }
